@@ -26,6 +26,7 @@ MIT — free to fork, star ⭐, and use in your portfolio
 Hi, I’m **Ashik Kumar Ghosh**, a passionate Data Analyst with a strong focus on **workflow automation and analytics**.  
 I specialize in **Python, SQL, Power BI, and Excel/VBA automation**, creating robust solutions that transform raw data into actionable insights and connect analytics to real business impact.  
 ### 🚀 Stay Connected  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashik-Kumar-Ghosh)
 
 ---
 
